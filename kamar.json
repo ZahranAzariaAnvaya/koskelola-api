@@ -1,0 +1,71 @@
+[
+  {
+    "id": "K01",
+    "nomor": "01",
+    "tipe": "Standar",
+    "harga_bulanan": 650000,
+    "fasilitas": [
+      "Kasur",
+      "Lemari",
+      "Meja Belajar"
+    ],
+    "deskripsi": "Kamar standar untuk satu penghuni dengan fasilitas dasar.",
+    "foto_url": "https://placehold.co/800x500/E8F0FE/1E3A8A.png?text=Kamar+01"
+  },
+  {
+    "id": "K02",
+    "nomor": "02",
+    "tipe": "Standar",
+    "harga_bulanan": 650000,
+    "fasilitas": [
+      "Kasur",
+      "Lemari",
+      "Meja Belajar"
+    ],
+    "deskripsi": "Kamar standar untuk satu penghuni dengan fasilitas dasar.",
+    "foto_url": "https://placehold.co/800x500/EEF2FF/3730A3.png?text=Kamar+02"
+  },
+  {
+    "id": "K03",
+    "nomor": "03",
+    "tipe": "Standar Plus",
+    "harga_bulanan": 750000,
+    "fasilitas": [
+      "Kasur",
+      "Lemari",
+      "Meja Belajar",
+      "Kipas Angin"
+    ],
+    "deskripsi": "Kamar dengan fasilitas dasar dan kipas angin.",
+    "foto_url": "https://placehold.co/800x500/ECFDF5/065F46.png?text=Kamar+03"
+  },
+  {
+    "id": "K04",
+    "nomor": "04",
+    "tipe": "Standar Plus",
+    "harga_bulanan": 750000,
+    "fasilitas": [
+      "Kasur",
+      "Lemari",
+      "Meja Belajar",
+      "Kipas Angin"
+    ],
+    "deskripsi": "Kamar dengan fasilitas dasar dan kipas angin.",
+    "foto_url": "https://placehold.co/800x500/FFF7ED/9A3412.png?text=Kamar+04"
+  },
+  {
+    "id": "K05",
+    "nomor": "05",
+    "tipe": "Premium",
+    "harga_bulanan": 900000,
+    "fasilitas": [
+      "Kasur",
+      "Lemari",
+      "Meja Belajar",
+      "AC",
+      "Kamar Mandi Dalam"
+    ],
+    "deskripsi": "Kamar premium dengan AC dan kamar mandi dalam.",
+    "foto_url": "https://placehold.co/800x500/FDF2F8/9D174D.png?text=Kamar+05"
+  }
+]
